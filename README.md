@@ -9,7 +9,7 @@ it has a few limitation:
 
 ## How To
 ### Add the CustomizableEditText to your layout
-`<de.travelbuddy.record.CustomizableEditText
+`<de.cavus700.record.CustomizableEditText
                 android:id="@+id/yourId"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
